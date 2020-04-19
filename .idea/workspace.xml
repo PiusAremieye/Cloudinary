@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -29,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
@@ -82,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587324258889</updated>
-      <workItem from="1587324262941" duration="8228000" />
+      <workItem from="1587324262941" duration="8561000" />
     </task>
     <servers />
   </component>
@@ -106,22 +110,22 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="200" y="182" key="EnvironmentVariablesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587332010258" />
-    <state width="914" height="267" key="GridCell.Tab.0.bottom" timestamp="1587333380669">
+    <state width="914" height="267" key="GridCell.Tab.0.bottom" timestamp="1587333698348">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="914" height="267" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1587333380669" />
-    <state width="914" height="267" key="GridCell.Tab.0.center" timestamp="1587333380668">
+    <state width="914" height="267" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1587333698348" />
+    <state width="914" height="267" key="GridCell.Tab.0.center" timestamp="1587333698348">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="914" height="267" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1587333380668" />
-    <state width="914" height="267" key="GridCell.Tab.0.left" timestamp="1587333380668">
+    <state width="914" height="267" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1587333698348" />
+    <state width="914" height="267" key="GridCell.Tab.0.left" timestamp="1587333698348">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="914" height="267" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1587333380668" />
-    <state width="914" height="267" key="GridCell.Tab.0.right" timestamp="1587333380668">
+    <state width="914" height="267" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1587333698348" />
+    <state width="914" height="267" key="GridCell.Tab.0.right" timestamp="1587333698348">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="914" height="267" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1587333380668" />
+    <state width="914" height="267" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1587333698348" />
     <state x="10" y="210" key="Maven.ArtifactSearchDialog" timestamp="1587325322672">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>

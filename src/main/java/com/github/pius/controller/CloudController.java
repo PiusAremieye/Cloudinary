@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.Map;
+
 @RestController
 @RequestMapping("/image")
 public class CloudController {
@@ -16,7 +18,7 @@ public class CloudController {
   private CloudService cloudService;
 
   @PostMapping
-  public String sendImage(@RequestBody PathDTO path) throws Exception {
+  public Map sendImage(@RequestBody PathDTO path) throws Exception {
     return cloudService.sendFile(path);
   }
 }
