@@ -1,0 +1,4 @@
+com\github\pius\configuration\CloudConfig.class
+com\github\pius\service\CloudService.class
+com\github\pius\CloudDemo.class
+com\github\pius\controller\CloudController.class

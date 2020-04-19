@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="324d4ab1-7752-40d4-858d-254998ab08c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aly1LH7Vce6JTS26x4EKOjh0H7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.CloudDemo">
+    <configuration name="CloudDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.pius.CloudDemo" />
+      <module name="cloud_toturial1" />
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="true" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud_toturial1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.pius.CloudDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CloudDemo" />
+      <item itemvalue="Spring Boot.CloudDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CloudDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="324d4ab1-7752-40d4-858d-254998ab08c8" name="Default Changelist" comment="" />
+      <created>1587324258889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587324258889</updated>
+      <workItem from="1587324262941" duration="8228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587332549547">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="0" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587332549547" />
+    <state x="285" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1587332836672">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="285" y="274" key="#com.intellij.ide.util.MemberChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1587332836672" />
+    <state x="143" y="475" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1587327723018">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="143" y="475" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587327723018" />
+    <state x="200" y="182" key="EnvironmentVariablesDialog" timestamp="1587332010258">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="200" y="182" key="EnvironmentVariablesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587332010258" />
+    <state width="914" height="267" key="GridCell.Tab.0.bottom" timestamp="1587333380669">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="267" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1587333380669" />
+    <state width="914" height="267" key="GridCell.Tab.0.center" timestamp="1587333380668">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="267" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1587333380668" />
+    <state width="914" height="267" key="GridCell.Tab.0.left" timestamp="1587333380668">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="267" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1587333380668" />
+    <state width="914" height="267" key="GridCell.Tab.0.right" timestamp="1587333380668">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="267" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1587333380668" />
+    <state x="10" y="210" key="Maven.ArtifactSearchDialog" timestamp="1587325322672">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="10" y="210" key="Maven.ArtifactSearchDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587325322672" />
+    <state x="0" y="197" key="SettingsEditor" timestamp="1587331786646">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="0" y="197" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1587331786646" />
+    <state x="296" y="336" key="chooseDestDirectoryDialog" timestamp="1587327711069">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="296" y="336" key="chooseDestDirectoryDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587327711068" />
+  </component>
+</project>
