@@ -12,15 +12,17 @@ import java.util.Map;
 
 @Service
 public class CloudService {
+  private int uniqueKey;
 
   @Autowired
   private CloudConfig cloudConfig;
 
   public Map sendFile(PathDTO path) throws Exception {
     try{
+      uniqueKey++;
       File toUpload = new File(path.getPath());
-      Map result = cloudConfig.configCloud().uploader().upload(toUpload, ObjectUtils.emptyMap());
-      return result;
+      Map params = ObjectUtils.asMap("public_id", "cloud_tutorial/demo"+uniqueKey);
+      return cloudConfig.configCloud().uploader().upload(toUpload, params);
     } catch (IOException ex){
       throw new Exception(ex.getMessage());
     }

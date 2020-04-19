@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="324d4ab1-7752-40d4-858d-254998ab08c8" name="Default Changelist" comment="" />
+    <list default="true" id="324d4ab1-7752-40d4-858d-254998ab08c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/pius/service/CloudService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/pius/service/CloudService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +28,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aly1LH7Vce6JTS26x4EKOjh0H7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -86,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587324258889</updated>
-      <workItem from="1587324262941" duration="8561000" />
+      <workItem from="1587324262941" duration="10154000" />
     </task>
     <servers />
   </component>
@@ -110,22 +114,22 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="200" y="182" key="EnvironmentVariablesDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1587332010258" />
-    <state width="914" height="267" key="GridCell.Tab.0.bottom" timestamp="1587333698348">
+    <state width="914" height="267" key="GridCell.Tab.0.bottom" timestamp="1587335259289">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="914" height="267" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1587333698348" />
-    <state width="914" height="267" key="GridCell.Tab.0.center" timestamp="1587333698348">
+    <state width="914" height="267" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1587335259289" />
+    <state width="914" height="267" key="GridCell.Tab.0.center" timestamp="1587335259289">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="914" height="267" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1587333698348" />
-    <state width="914" height="267" key="GridCell.Tab.0.left" timestamp="1587333698348">
+    <state width="914" height="267" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1587335259289" />
+    <state width="914" height="267" key="GridCell.Tab.0.left" timestamp="1587335259288">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="914" height="267" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1587333698348" />
-    <state width="914" height="267" key="GridCell.Tab.0.right" timestamp="1587333698348">
+    <state width="914" height="267" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1587335259288" />
+    <state width="914" height="267" key="GridCell.Tab.0.right" timestamp="1587335259289">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="914" height="267" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1587333698348" />
+    <state width="914" height="267" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1587335259289" />
     <state x="10" y="210" key="Maven.ArtifactSearchDialog" timestamp="1587325322672">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
