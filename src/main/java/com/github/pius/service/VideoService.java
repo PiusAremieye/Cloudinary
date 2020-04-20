@@ -11,17 +11,20 @@ import java.io.IOException;
 import java.util.Map;
 
 @Service
-public class CloudService {
+public class VideoService {
   private int uniqueKey;
 
   @Autowired
   private CloudConfig cloudConfig;
 
-  public Map sendFile(PathDTO path) throws Exception {
+  public Map upload(PathDTO path) throws Exception {
     try{
       uniqueKey++;
       File toUpload = new File(path.getPath());
-      Map params = ObjectUtils.asMap("public_id", "cloud_tutorial/demo"+uniqueKey);
+      String folder = "cloud_tutorial/video/";
+      String fileName = "video_"+uniqueKey;
+      Map params = ObjectUtils.asMap("public_id", folder+fileName,
+        "resource_type", "video");
       return cloudConfig.configCloud().uploader().upload(toUpload, params);
     } catch (IOException ex){
       throw new Exception(ex.getMessage());

@@ -1,7 +1,7 @@
 package com.github.pius.controller;
 
 import com.github.pius.dto.PathDTO;
-import com.github.pius.service.CloudService;
+import com.github.pius.service.VideoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -11,14 +11,13 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Map;
 
 @RestController
-@RequestMapping("/image")
-public class CloudController {
-
+@RequestMapping("/video")
+public class VideoController {
   @Autowired
-  private CloudService cloudService;
+  private VideoService videoService;
 
   @PostMapping
-  public Map sendImage(@RequestBody PathDTO path) throws Exception {
-    return cloudService.sendFile(path);
+  public Map uploadFile(@RequestBody PathDTO path) throws Exception {
+    return videoService.upload(path);
   }
 }
